@@ -86,7 +86,7 @@ cp /root/*.cer /root/*.esl /root/*.auth /efi/
 Boot into UEFI firmware setup utility
 systemctl reboot –firmware
 
-You have already clear keys, make sure that is in SETUP MODE. 
+You have already clear keys, make sure that is in SETUP MODE. BE CAREFULL!!! DO NOT RESET THE KEYS!!! 
 Open terminal and type
 
 $ sudo -s
